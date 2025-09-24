@@ -11,7 +11,8 @@ Each folder represents a separate project with its own dataset, analysis, and da
 - **Blinkit Sales Data Analysis**  
   - 📌 Analyzes Blinkit sales data to uncover customer behavior, product performance, and sales trends.  
   - 🛠 Skills: Data Cleaning, Pivot Tables, Dashboards, Lookup Functions  
-  - 📁Check it out here:[Blinkit Sales Data Analysis](./Blinkit_Sales_Analysis/)  
+  - 📁Check it out here:- [Blinkit Sales Data Analysis](./Blinkit_Sales_Analysis/)
+ 
 
 
 
