@@ -19,7 +19,7 @@ Each folder represents a separate project with its own dataset, analysis, and da
   - 📌 Analyzes road accident data to provide insights into casualties by **severity, vehicle type, road type, and location**.  
   - 📊 Identifies **high-risk areas, peak accident hours, and urban vs. rural splits**.  
   - 🛠 Skills: Power Query, Power Pivot, Pivot Tables, Dashboard Design  
-  - 📁 Check it out here: [Road Accident Analysis](./Excel_DataAnalytics_Projects/Road_Accident_Analysis/)  
+  - 📁 Check it out here: [Road Accident Analysis Dashboard](https://github.com/MohamedBilal-DA/Excel_DataAnalytics_Projects/tree/main/Road_Accident_Analysis)  
 
 ---
 
