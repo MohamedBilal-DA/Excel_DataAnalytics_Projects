@@ -11,11 +11,15 @@ Each folder represents a separate project with its own dataset, analysis, and da
 - **Blinkit Sales Data Analysis**  
   - 📌 Analyzes Blinkit sales data to uncover customer behavior, product performance, and sales trends.  
   - 🛠 Skills: Data Cleaning, Pivot Tables, Dashboards, Lookup Functions  
-  - 📁Check it out here:- [Blinkit Sales Data Analysis](./Excel_DataAnalytics_Projects/Blinkit_Sales_Analysis/)
+  - 📁 Check it out here: [Blinkit Sales Data Analysis](./Excel_DataAnalytics_Projects/Blinkit_Sales_Analysis/)  
 
- 
+---
 
-
+- **Road Accident Analysis Dashboard**  
+  - 📌 Analyzes road accident data to provide insights into casualties by **severity, vehicle type, road type, and location**.  
+  - 📊 Identifies **high-risk areas, peak accident hours, and urban vs. rural splits**.  
+  - 🛠 Skills: Power Query, Power Pivot, Pivot Tables, Dashboard Design  
+  - 📁 Check it out here: [Road Accident Analysis](./Excel_DataAnalytics_Projects/Road_Accident_Analysis/)  
 
 ---
 
